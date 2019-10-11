@@ -1,0 +1,7 @@
+Systematic approaches to developing a software design:
+The design is usually documented as a set of graphical models:
+1) Data-flow model
+2) Entity-relation-attribute model
+3）structural model
+4) Obeject model
+(Use case diagram:context of diagram,Activity:Flow chart(shows funcitons),Sequence:Data flow diagram(show proccess)
