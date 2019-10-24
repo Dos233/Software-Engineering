@@ -1,0 +1,13 @@
+Validation: it focus on the method
+Validation: it is talking about product itself
+
+First goal: To meet customer requirements
+(It leads validation testing)
+Second goal: To discover situation in which the behaviour of the software is incorret,undisreble or does
+not conform to its specification
+(It leads defect testing)
+
+Inspection and testing:
+Software Inspection: static analysis of the system
+Software testing: Concerned with exercising and oberserving product behaviour(test data and its operational behaviour)
+
